@@ -40,21 +40,6 @@ Kelas BujurSangkar, Lingkaran, dan Silinder masing-masing menimpa (override) met
 
 Misalnya, saat printInfo() dipanggil pada objek Lingkaran, ia akan mencetak format "Lingkaran
 
-$$warna$$
-
-, luas =
-
-$$luas$$
-
-", sedangkan pada objek Silinder ia mencetak "Silinder warna
-
-$$warna$$
-
-, volume =
-
-$$volume$$
-
-".
 
 Screenshot Eksekusi Program
 
